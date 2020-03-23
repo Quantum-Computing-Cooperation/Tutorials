@@ -9,6 +9,7 @@
 
 **for Computer Scientists | Physicists | Mathematicians | Anyone else interested**
 
+## Contents
 1. [Books](#books)
 2. [Online Lectures](#onlineLectures)
 3. [Websites/Blogs](#websites)
