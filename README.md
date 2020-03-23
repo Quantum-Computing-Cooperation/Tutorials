@@ -1,5 +1,5 @@
-| <img src="src/QCC.logo.png" align="middle" width="200"> | 
-| Tables        | Are           | Cool  |
+![](<img src="src/QCC.logo.png" align="middle" width="200">) | 
+| ![](<img src="src/QCC.logo.png" align="middle" width="200">)
 
 
 # Quantum Computing Cooperation - Tutorials
