@@ -1,4 +1,4 @@
-pandoc --filter pandoc-csv2table 2x2.md -t markdown
+pandoc --filter pandoc-csv2table 2x2.md -t gfm
 
   ------------------------------------------------------------- ------------------------------------------------------------
    ![](<img src="src/QCC.logo.png" align="middle" width="200">) ![](<img src="src/QCC.logo.png" align="middle" width="200">)
