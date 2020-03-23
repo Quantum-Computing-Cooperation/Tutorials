@@ -1,6 +1,8 @@
-![](<img src="src/QCC.logo.png" align="middle" width="200">) | 
-| ![](<img src="src/QCC.logo.png" align="middle" width="200">)
+pandoc --filter pandoc-csv2table 2x2.md -t markdown
 
+  ------------------------------------------------------------- ------------------------------------------------------------
+   ![](<img src="src/QCC.logo.png" align="middle" width="200">) ![](<img src="src/QCC.logo.png" align="middle" width="200">)
+  ------------------------------------------------------------- ------------------------------------------------------------
 
 # Quantum Computing Cooperation - Tutorials
 > A set of Quantum computing sources for you to explore quantum computing as much as you want.
