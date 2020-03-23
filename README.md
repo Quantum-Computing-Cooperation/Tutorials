@@ -1,7 +1,7 @@
 
 
   ------------------------------------------------------------- ------------------------------------------------------------ 
-   <img src="src/QCC.logo.png" align="right" width="200">       <img src="src/epfl.png" align="middle" width="200"> <img src="src/harvard.png" align="middle" width="200">  <img src="src/mit.png" align="left" width="200"> 
+   <img src="src/QCC.logo.png" align="left" width="200">       <img src="src/epfl.png" align="middle" width="200"> <img src="src/harvard.png" align="middle" width="200">  <img src="src/mit.png" align="right" width="200"> 
   ------------------------------------------------------------- ------------------------------------------------------------
 
 # Quantum Computing Cooperation - Tutorials
