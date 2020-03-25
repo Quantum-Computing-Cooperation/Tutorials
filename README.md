@@ -23,7 +23,7 @@ This repository will contain the study material that EPFL, Harvard, MIT Quantum 
 ## Books
 Theoretical | Application |
 :-- | :--: 
-[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]| |
+[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)| |
 
 
 
