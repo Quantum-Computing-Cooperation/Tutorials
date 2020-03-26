@@ -1,4 +1,8 @@
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
   ------------------------------------------------------------- ------------------------------------------------------------ 
    <img src="src/logos/QCC.logo.png" align="left" width="200">       <img src="src/logos/epfl.png" align="middle" width="200"> <img src="src/logos/harvard.png" align="middle" width="200">  <img src="src/logos/mit.png" align="right" width="200"> 
@@ -35,3 +39,13 @@ Theoretical | Application |
 
 <a name="websites"></a>
 ## Websites/Blogs 
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/graphs/contributors
+[forks-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/network/members
+[stars-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/stargazers
+[issues-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/issues
+[license-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/blob/master/LICENSE
