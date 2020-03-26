@@ -5,7 +5,7 @@
 
 
 
- <img src="src/logos/QCC.logo.png" align="middle" width="40%"> 
+ <img src="src/logos/QCC.logo.png" align="middle" width="200"> 
                                     
 
 
