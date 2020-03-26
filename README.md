@@ -4,6 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+
   ------------------------------------------------------------- ------------------------------------------------------------ 
    <img src="src/logos/QCC.logo.png" align="left" width="200">       <img src="src/logos/epfl.png" align="middle" width="200"> <img src="src/logos/harvard.png" align="middle" width="200">  <img src="src/logos/mit.png" align="right" width="200"> 
   ------------------------------------------------------------- ------------------------------------------------------------
@@ -51,5 +52,6 @@ Theoretical | Application |
 [stars-shield]: https://img.shields.io/github/stars/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
 [stars-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/stargazers
 [issues-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/issues
-[licence-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/blob/master/LICENSE
 [license-shield]: https://img.shields.io/github/license/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
+[licence-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/blob/master/LICENSE
+
