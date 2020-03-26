@@ -47,7 +47,7 @@ Theoretical | Application |
 [contributors-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/network/members
-[issues-shield]: https://img.shields.io/github/issues/Quantum-Computing-Cooperation/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/stargazers
 [issues-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/issues
