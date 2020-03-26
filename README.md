@@ -5,8 +5,8 @@
 
 
 
- 
-                                <img src="src/logos/QCC.logo.png" align="middle" width="200">      
+ <img src="src/logos/QCC.logo.png" align="middle" width="200"> 
+                                    
 
 
 # Quantum Computing Cooperation - Tutorials
