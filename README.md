@@ -26,9 +26,10 @@ This repository will contain the study material that EPFL, Harvard, MIT Quantum 
 
 <a name="books"></a>
 ## Books
-Theoretical | Application |
-:-- | :--: 
-[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![DifficultyRating](https://img.shields.io/badge/Theory-Beginner-green.svg)| |
+Theoretical | 
+:-- | 
+[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
+[Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)| 
 
 
 
