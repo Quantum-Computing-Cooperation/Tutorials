@@ -6,20 +6,7 @@
 
 
   ------------------------------------------------------------- ------------------------------------------------------------ 
-   <img src="src/logos/QCC.logo.png" align="top" width="200">       <img src="src/logos/epfl.png" align="bottom" width="200"> <img src="src/logos/harvard.png" align="bottom" width="200">  <img src="src/logos/mit.png" align="bottom" width="200"> 
-   
-   
-  <div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+   <img src="src/logos/QCC.logo.png" align="top" width="200">       <img src="src/logos/epfl.png" align="bottom" width="200"> <img src="src/logos/harvard.png" align="bottom" width="200">  <img src="src/logos/mit.png" align="bottom" width="200">
   ------------------------------------------------------------- ------------------------------------------------------------
 
 # Quantum Computing Cooperation - Tutorials
