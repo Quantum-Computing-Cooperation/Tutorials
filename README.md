@@ -43,13 +43,13 @@ Theoretical | Application |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/issues/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
 [contributors-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/graphs/contributors
-[forks-shield]: https://img.shields.io/github/issues/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
 [forks-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/network/members
 [issues-shield]: https://img.shields.io/github/issues/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
-[stars-shield]: https://img.shields.io/github/issues/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
 [stars-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/stargazers
 [issues-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/issues
-[licences-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/blob/master/LICENSE
-[license-shield]: https://img.shields.io/github/issues/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
+[licence-url]: https://github.com/Quantum-Computing-Cooperation/Tutorials/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/Quantum-Computing-Cooperation/Tutorials.svg?style=flat-square
