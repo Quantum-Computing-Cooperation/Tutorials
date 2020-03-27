@@ -16,8 +16,9 @@
 
 ## Contents
 1. [Books](#books)
-2. [Online Lectures](#onlineLectures)
-3. [Websites/Blogs](#websites)
+2. [Repos](#repos)
+3. [Online Lectures](#onlineLectures)
+4. [Websites/Blogs](#websites)
 
 
 
@@ -26,12 +27,14 @@ This repository will contain the study material that EPFL, Harvard, MIT Quantum 
 
 <a name="books"></a>
 ## Books
-Theoretical | 
 :-- | 
 [Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
 [Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)| 
 
-
+<a name="repos"></a>
+## Repos
+:-- | 
+[Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| 
 
 
 <a name="onlineLectures"></a>
