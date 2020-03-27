@@ -14,6 +14,10 @@
 
 **for Computer Scientists | Physicists | Mathematicians | Anyone else interested**
 
+
+## What is this repo all about?
+This repository will contain the study material that EPFL, Harvard, MIT Quantum Computing associations and others provide to the students as training and practice.
+
 ## Contents
 1. [Books](#books)
 2. [Repos](#repos)
@@ -21,13 +25,26 @@
 4. [Websites/Blogs](#websites)
 
 
+## Contribution guidelines
 
-## What is this repo all about?
-This repository will contain the study material that EPFL, Harvard, MIT Quantum Computing associations and others provide to the students as training and practice.
+<a name="bookGuide"></a>
+### Books
+
+<a name="repoGuide"></a>
+### Repos
+
+<a name="lectureGuide"></a>
+### Online lectures
+
+<a name="websiteGuide"></a>
+### Websites/Blogs
+
 
 <a name="books"></a>
 ## Books
-| [Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
+| [Adding books guideline](#bookGuide)|
+:-- |
+[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
 [Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)| 
 
 <a name="repos"></a>
