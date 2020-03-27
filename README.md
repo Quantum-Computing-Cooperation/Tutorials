@@ -25,6 +25,35 @@ This repository will contain the study material that EPFL, Harvard, MIT Quantum 
 4. [Websites/Blogs](#websites)
 
 
+
+<a name="books"></a>
+## Books
+| [Adding books guideline](#bookGuide) |
+:-- |
+[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
+[Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)| 
+
+<a name="repos"></a>
+## Repos
+| [Adding repos guideline](#repoGuide) |
+:-- | 
+[Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| 
+
+
+<a name="onlineLectures"></a>
+## Online Lectures
+
+
+
+<a name="websites"></a>
+## Websites/Blogs 
+
+
+
+
+
+
+
 ## Contribution guidelines
 
 <a name="bookGuide"></a>
@@ -39,27 +68,6 @@ This repository will contain the study material that EPFL, Harvard, MIT Quantum 
 <a name="websiteGuide"></a>
 ### Websites/Blogs
 
-
-<a name="books"></a>
-## Books
-| [Adding books guideline](#bookGuide)|
-:-- |
-[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
-[Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)| 
-
-<a name="repos"></a>
-## Repos
-:-- | 
-[Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| 
-
-
-<a name="onlineLectures"></a>
-## Online Lectures
-
-
-
-<a name="websites"></a>
-## Websites/Blogs 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
