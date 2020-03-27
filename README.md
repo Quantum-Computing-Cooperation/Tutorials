@@ -16,7 +16,9 @@
 
 
 ## What is this repo all about?
-This repository will contain the study material that EPFL, Harvard, MIT Quantum Computing associations and others provide to the students as training and practice.
+This repository contains anything and everything relating to quantum computing. The difficulty and commitment of each source is indicated by badges that look like ![badge](https://img.shields.io/badge/#_Hours_-Difficulty-Orange.svg). Our goal is to grow this source as much as possible and spread the love for quantum computing as students from EPFL,Harvard and MIT :) 
+
+![](name-of-giphy.gif)
 
 ## Contents
 1. [Books](#books)
