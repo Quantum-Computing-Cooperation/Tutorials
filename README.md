@@ -31,16 +31,16 @@ This repository contains anything and everything relating to quantum computing a
 <a name="books"></a>
 ## Books
 
-|  [Adding books guideline](#bookGuide) |  Prerequisites |
+|  [Adding books guideline](#guide) |  Prerequisites |
 | :---         |          ---: |
 |   [Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg) | ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg)  |
 |  [Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)  |  ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg)    |
 
 <a name="repos"></a>
 ## Repos
-| [Adding repos guideline](#repoGuide) |
-:-- | 
-[Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| 
+| [Adding repos guideline](#guide) | Prerequisities |
+| :---         |          ---: |
+| [Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) ![badge](https://img.shields.io/badge/BooleanLogic_LogicGates-gray.svg)|
 
 
 <a name="onlineLectures"></a>
@@ -56,20 +56,11 @@ This repository contains anything and everything relating to quantum computing a
 
 
 
-
+<a name="guide"></a>
 ## Contribution guidelines
 
-<a name="bookGuide"></a>
-### Books
 
-<a name="repoGuide"></a>
-### Repos
 
-<a name="lectureGuide"></a>
-### Online lectures
-
-<a name="websiteGuide"></a>
-### Websites/Blogs
 
 
 
