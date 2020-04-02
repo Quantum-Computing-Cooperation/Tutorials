@@ -30,10 +30,10 @@ This repository contains anything and everything relating to quantum computing. 
 
 <a name="books"></a>
 ## Books
-| [Adding books guideline](#bookGuide) | Pre-Requisities |
+ [Adding books guideline](#bookGuide) | Pre-Requisities |
 | -------------------------------------:---------------- |
-| [Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) |
-| [Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg) | ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) |
+ [Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) |
+[Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg) | ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) |
 
 <a name="repos"></a>
 ## Repos
