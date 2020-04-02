@@ -32,14 +32,14 @@ This repository contains anything and everything relating to quantum computing a
 ## Books
 
 |  [Adding books guideline](#guide) |  Prerequisites |
-| :---         |          ---: |
+| :---         |   :---: |
 |   [Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg) | ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg)  |
 |  [Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)  |  ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg)    |
 
 <a name="repos"></a>
 ## Repos
 | [Adding repos guideline](#guide) | Prerequisities |
-| :---         |          ---: |
+| :---         |    :---: |
 | [Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) ![badge](https://img.shields.io/badge/BooleanLogic_LogicGates-gray.svg)|
 
 
