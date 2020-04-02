@@ -39,7 +39,9 @@ This repository contains anything and everything relating to quantum computing a
 ## Repos
 | [Adding repos guideline](#guide) | Prerequisities |
 | :---         |    :---: |
-| [Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) ![badge](https://img.shields.io/badge/MachineLearning-gray.svg)|
+| [Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) ![badge](https://img.shields.io/badge/MachineLearning-gray.svg)| 
+| [A board game to learn quantum computing](https://github.com/Entanglion/entanglion) ![badge](https://img.shields.io/badge/2_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/PopularScienceLevelQuantumComputing-gray.svg) |
+
 
 
 <a name="onlineLectures"></a>
