@@ -60,6 +60,7 @@ This repository contains anything and everything relating to quantum computing a
 
 <a name="guide"></a>
 ## Contribution guidelines
+[Contributing guidlines](https://github.com/Quantum-Computing-Cooperation/Tutorials/blob/master/CONTRIBUTING.md)
 
 
 
