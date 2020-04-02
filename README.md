@@ -16,7 +16,7 @@
 
 
 ## What is this repo all about?
-This repository contains anything and everything relating to quantum computing. The difficulty and weekly commitment time of each source is indicated by badges that look like ![badge](https://img.shields.io/badge/20_Hours_-Difficult-black.svg). Our goal is to grow this source as much as possible and spread the love for quantum computing as students from EPFL,Harvard and MIT :) 
+This repository contains anything and everything relating to quantum computing. The difficulty and commitment of each source is indicated by badges that look like ![badge](https://img.shields.io/badge/20_Hours_-Difficult-black.svg). Our goal is to grow this source as much as possible and spread the love for quantum computing as students from EPFL,Harvard and MIT :) 
 
 ![](src/repoSim.gif)
 
@@ -30,10 +30,10 @@ This repository contains anything and everything relating to quantum computing. 
 
 <a name="books"></a>
 ## Books
-| [Adding books guideline](#bookGuide) |
-:-- |
-[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
-[Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)| 
+| [Adding books guideline](#bookGuide) | Pre-Requisities |
+| --:-- |
+[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) |
+[Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) ![badge](https://img.shields.io/badge/4_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) |
 
 <a name="repos"></a>
 ## Repos
@@ -44,9 +44,8 @@ This repository contains anything and everything relating to quantum computing. 
 
 <a name="onlineLectures"></a>
 ## Online Lectures
-| [Adding books guideline](#onlineLectureGuide) |
-:-- |
-[A quick intro to basic quantum gates and concepts ](https://www.youtube.com/watch?v=SMbh0GgCN7I&list=PL1826E60FD05B44E4&index=5) ![badge](https://img.shields.io/badge/3_Hours_-Beginner-green.svg)| 
+
+
 
 <a name="websites"></a>
 ## Websites/Blogs 
