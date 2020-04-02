@@ -44,8 +44,9 @@ This repository contains anything and everything relating to quantum computing. 
 
 <a name="onlineLectures"></a>
 ## Online Lectures
-
-
+| [Adding books guideline](#onlineLectureGuide) |
+:-- |
+[Quantum Computing, a gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) ![badge](https://img.shields.io/badge/6_Hours_-Beginner-green.svg)| 
 
 <a name="websites"></a>
 ## Websites/Blogs 
