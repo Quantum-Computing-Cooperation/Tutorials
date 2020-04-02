@@ -18,7 +18,6 @@
 ## What is this repo all about?
 This repository contains anything and everything relating to quantum computing and offers something for all levels. The difficulty and commitment of each source is indicated by badges that look like ![badge](https://img.shields.io/badge/20_Hours_-Difficult-black.svg). Similarly, the background needed or that would at least help is indicated by ![badge](https://img.shields.io/badge/Math101-gray.svg) Our goal is to grow this source as much as possible and spread the love for quantum computing as students from EPFL,Harvard and MIT :) 
 
-![](src/repoSim.gif)
 
 ## Contents
 1. [Books](#books)
