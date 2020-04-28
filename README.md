@@ -42,6 +42,7 @@ This repository contains anything and everything relating to quantum computing a
 | [Quantum Computing, a gentle introduction](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Intermediate-red.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) ![badge](https://img.shields.io/badge/MachineLearning-gray.svg)| 
 | [A board game to learn quantum computing](https://github.com/Entanglion/entanglion) ![badge](https://img.shields.io/badge/2_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/PopularScienceLevelQuantumComputing-gray.svg) |
 | [Multiplayer webgame to learn quantum computing(under development)](https://github.com/epfl-qca/entanglion) ![badge](https://img.shields.io/badge/2_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/PopularScienceLevelQuantumComputing-gray.svg) |
+| [The slides used by EPFL quantum computing research club](https://drive.google.com/open?id=1jlWLwve9aKnMeIsnT5OoHkDYUY7DM6Oh) ![badge](https://img.shields.io/badge/2_Hours_-AllLevels-gray.svg)| ![badge](https://img.shields.io/badge/Love_for_quantum-gray.svg) |
 
 
 
