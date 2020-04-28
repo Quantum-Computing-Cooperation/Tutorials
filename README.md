@@ -51,6 +51,7 @@ This repository contains anything and everything relating to quantum computing a
 | [Adding repos guideline](#guide) | Prerequisities |
 | :---         |    :---: |
 | [Basics of quantum gates and the math needed](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/3_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) ![badge](https://img.shields.io/badge/BooleanLogic-gray.svg) ![badge](https://img.shields.io/badge/ClassicalLogicGates-gray.svg)  |
+| [Live streams by the Qiskit team](https://github.com/qosf/qml-mooc) ![badge](https://img.shields.io/badge/2_Hours_-Intermediate-red.svg)| ![badge](https://img.shields.io/badge/LinearAlgebra-gray.svg) ![badge](https://img.shields.io/badge/Familiarity_with_quantum_programming-gray.svg)  |
 
 
 
